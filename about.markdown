@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Information
-permalink: /Information/
+title: RSVP
+permalink: /RSVP/
 ---
 
-Information about dates etc
+For Chris to do his RSVP stuff
